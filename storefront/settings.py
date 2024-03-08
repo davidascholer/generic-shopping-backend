@@ -96,6 +96,7 @@ DATABASES = {
         'NAME': 'storefront3',
         'HOST': 'localhost',
         'USER': 'root',
+        # Temporary password for generic project
         'PASSWORD': 'jfTpZKrBXV5xsXy'
     }
 }
